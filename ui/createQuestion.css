@@ -1,0 +1,47 @@
+body{
+    font-family: 'Lora', serif;
+    background: rgb(248, 244, 255);
+    color: rgb(51, 2, 51);
+}
+
+.form-well{
+    margin: 8% auto;
+    border-radius: 10px;
+    background: rgb(242, 250, 242);
+    box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
+}
+.myNavbar{
+    background-image: -webkit-linear-gradient(left bottom, #007bff 10%, #663399 100%);
+    color: rgb(193, 233, 193)(112, 218, 112);
+    padding: 10px 50px !important;
+}
+
+.form-group{
+    padding: 50px 10px;
+}
+
+#title{
+    height: 50px;
+}
+
+textarea{
+    margin-bottom: 5px;
+}
+
+label{
+  font-size: 25px;
+}
+
+.createButton{ 
+    width:100%;
+    margin-top: 5px;
+    height: 50px;
+    color: white !important;
+    background-image: -webkit-linear-gradient(left bottom, #007bff 10%, #663399 100%);
+}
+
+nav a{
+  color: white !important;
+  font-size: 20px;
+  font-family: 'Lora', serif;
+}
