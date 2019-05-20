@@ -5,7 +5,7 @@ body{
 }
 
 .form-well{
-    margin: 8% auto;
+    margin: 30px auto;
     border-radius: 10px;
     background: rgb(242, 250, 242);
     box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
@@ -22,6 +22,11 @@ body{
 
 #title{
     height: 50px;
+}
+
+.pq-title{
+  padding: 10px;
+  color: rgb(51, 2, 51);
 }
 
 textarea{
